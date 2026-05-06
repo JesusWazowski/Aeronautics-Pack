@@ -1786,6 +1786,14 @@ hash = "d43726f039e89ef67069d31df1c26f3d738a17647fb4c3313840f90624d1b730"
 metafile = true
 
 [[files]]
+file = "resourcepacks/GEO - v1.98.0 - Fusion.zip"
+hash = "c6610433d8049a827305412d6b9df4b5886f8bf3d02700df41122efec776da9b"
+
+[[files]]
+file = "resourcepacks/GEO - v1.98.0.zip"
+hash = "4ee4380e80dfc6784bc7442c5bef60e3d756815f40bfe26aa41609586d6ba31f"
+
+[[files]]
 file = "resourcepacks/RareAlienTech.zip"
 hash = "b81ae0ea5589213f839b140425dde411abc8cb3ab1e8c7a0307fa8cfb9900f14"
 
@@ -1805,16 +1813,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/ae2-light-mode.pw.toml"
 hash = "d2afa2015854259cde2fb0d2b52860594131aac6ce7229067f210f215025e5b0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-emissive-ores-fusion.pw.toml"
-hash = "bef387ef64ca15bd6f29093ccc73f7de246e6166a968997ab05468c0e65b563d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "e1500349cb76896f46c6b250f7c8a9972a5b28c56d214d15b9c9f12cc72266fd"
 metafile = true
 
 [[files]]
