@@ -1,0 +1,13 @@
+name = "Sable Touys"
+filename = "touys-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "affaaeaa8180b179902f565609b41107ddcf3d8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8003950
+project-id = 1486358

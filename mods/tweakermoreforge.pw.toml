@@ -1,0 +1,13 @@
+name = "TweakerMoreForge"
+filename = "tweakermoreforge-0.0.8-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "143686567788047735d1b8619515469b0eedf16e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6767948
+project-id = 1237796
