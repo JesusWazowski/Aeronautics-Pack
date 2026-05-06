@@ -1,0 +1,13 @@
+name = "Aeronautics Testing"
+author = "JesusWazowski"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a44c31657a5e5192193865b83b8fe0d19a8962becf32d8593d9f8382f7e547a3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
