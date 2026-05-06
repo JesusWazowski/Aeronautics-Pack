@@ -1,0 +1,13 @@
+name = "Glowing Emissive Ores - Fusion"
+filename = "GEO - v1.98.0 - Fusion.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e74fa7140df45ecc7f6df9170b6e66f6964100a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7762723
+project-id = 1242041
