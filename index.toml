@@ -33,10 +33,6 @@ file = "XaeroWaypoints_BACKUP240807/AIR WORLD 2/config.txt"
 hash = "59f7d70934afdbc8127f579df72980726384fb8b7b7ea9f0705fb9aaf7cb6cbc"
 
 [[files]]
-file = "command_history.txt"
-hash = "72e0ff9cb1d5876d1f3f76fa3d2c269d4f16dc026998d1f0cda70c0e84cc51c7"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -1113,14 +1109,6 @@ file = "downloads/log.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "emi.json"
-hash = "28000c49c832417ccd23e89e5896568fc380e5acee0c8640f4bce7636858215a"
-
-[[files]]
-file = "hotbar.nbt"
-hash = "7e6c9abd94a797cdd13501453fba3129d5f23a7f7225fb4e36465716f21fc467"
-
-[[files]]
 file = "hs_err_pid29304.log"
 hash = "662be18ebfc98e542b1a7ff7a6b136430810373a158d24a2ed141faffc78f2c1"
 
@@ -1314,9 +1302,8 @@ hash = "051ccc462f0b63e5942fbc73c91ef81295974676f53ece61d4b79a46f7514ed3"
 metafile = true
 
 [[files]]
-file = "mods/chunky-offline.pw.toml"
-hash = "18cead0149f4d8d9533e03372d5ed4d1fdca927790f48878876b01c3d8d5fb9e"
-metafile = true
+file = "mods/chunky-offline-v1.1.0.jar"
+hash = "1db9a56b000a3cd6fac29f2de3a6cce31efb998bc83c33ef8226337aa898623a"
 
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
@@ -1344,9 +1331,8 @@ hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
-metafile = true
+file = "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
@@ -1389,11 +1375,6 @@ hash = "37c21deaf7e65569fa9dcc59a477a55ab8937153c591f1bc4d6249de9582044f"
 metafile = true
 
 [[files]]
-file = "mods/create-sophisticated-backpacks-compat.pw.toml"
-hash = "7e6cf9b0d48cce70273efbc86f834d138aaec540cecfe693d23389ef78181c6f"
-metafile = true
-
-[[files]]
 file = "mods/create-stock-bridge.pw.toml"
 hash = "8b3e4dc52381c3f3aa9f1ac5d335da663f8def2732735f57b3684fb35d2ac079"
 metafile = true
@@ -1402,6 +1383,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
+
+[[files]]
+file = "mods/create_sophback_compat-1.0.jar"
+hash = "5eee67aff06d3355cbd06b6190551e109884a43465da3671f9d2735a07eba3c3"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
@@ -1463,9 +1448,8 @@ file = "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
 hash = "38fd4cb9ae7eee090f352c92b09dc54eb873363523d11b2354157d3214546816"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "67f2c17eba534ea6f5a577b0c8b566dc60ff90385c1aa5787a47a4b046cb1d47"
-metafile = true
+file = "mods/entityculling-neoforge-1.10.1-mc1.21.1.jar"
+hash = "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691"
 
 [[files]]
 file = "mods/ewewukeks-musket-mod.pw.toml"
@@ -1800,10 +1784,6 @@ metafile = true
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "d43726f039e89ef67069d31df1c26f3d738a17647fb4c3313840f90624d1b730"
 metafile = true
-
-[[files]]
-file = "ponders_watched.json"
-hash = "d6aa731417e0291b5ed38a2c195b0dde4b9a61d2b4a173636f9d6988e3fd7b21"
 
 [[files]]
 file = "resourcepacks/RareAlienTech.zip"
