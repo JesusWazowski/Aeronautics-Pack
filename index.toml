@@ -36,6 +36,11 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "896d14f8df7c6d3ed5b6ca292220fa87c1c305f50cbdca43034a3f0414be72ca"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/natural-temperature.pw.toml"
 hash = "936b9fe863524171c7e82811ae060b9e4cd3670e7fdbd4ee0f0b64139fdcf1f1"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
