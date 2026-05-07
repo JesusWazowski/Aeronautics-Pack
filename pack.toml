@@ -1,12 +1,12 @@
-name = "Aeronautics Testing"
+name = "Aeronautics Pack"
 author = "JesusWazowski"
-version = "1.0.2"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8744d450a02cef5966f7ff6552939e14826f3077d1d7c9cc00ac8379dff16b5d"
+hash = "d51ddfa484d1fb7376d762c743ddc26e70dc0a0aa7de6bd4999ee353fbe6386b"
 
 [versions]
 minecraft = "1.21.1"
