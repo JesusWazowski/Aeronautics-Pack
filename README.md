@@ -1,2 +1,2 @@
 # Aeronautics-Pack
-personla minecraft modpack
+personal minecraft modpack
