@@ -1,0 +1,13 @@
+name = "Creative Dimension"
+filename = "PK_Creative_Dimension_V.3.1.2_MC_1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o6I0DdR8/versions/6VAB6hNr/PK_Creative_Dimension_V.3.1.2_MC_1.21.zip"
+hash-format = "sha512"
+hash = "6016ce669f9db09a78bba842fca1ac112ba29abc579e441e36ca5c41895a031994b6cfeaddad984631b706269b1251f6de4ada822e03ddc86a228e4b43f18f0f"
+
+[update]
+[update.modrinth]
+mod-id = "o6I0DdR8"
+version = "6VAB6hNr"

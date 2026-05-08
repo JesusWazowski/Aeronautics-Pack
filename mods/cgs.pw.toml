@@ -1,0 +1,13 @@
+name = "Create: Gunsmithing"
+filename = "cgs-1.21.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7KCNsGPM/versions/SBt3Mq7C/cgs-1.21.1-1.4.3.jar"
+hash-format = "sha512"
+hash = "d65002abe7718eeea402b49ed5925d9cd4ac5e21af1cc3098bd75f259b3c48b8c1bfef7bce9d8552731d51279af43b676e3ddc7fd3f3f9b59dc4017c4a06b9a2"
+
+[update]
+[update.modrinth]
+mod-id = "7KCNsGPM"
+version = "SBt3Mq7C"

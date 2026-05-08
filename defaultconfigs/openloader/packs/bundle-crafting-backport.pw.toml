@@ -1,0 +1,14 @@
+name = "Bundle Crafting Backport"
+filename = "Bundle Recipe Backport [1.21.1].zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/9meQUmie/versions/3A0sdU06/Bundle%20Recipe%20Backport%20%5B1.21.1%5D.zip"
+hash-format = "sha512"
+hash = "a37489f9da91a11f419df60326647cb46185647f315a70fab900c4da7e3c3e93668ca793717ab684dcb5c5e0bb7d09e49f1264e18a5c7e183fd2896be2a843a1"
+
+[update]
+[update.modrinth]
+mod-id = "9meQUmie"
+version = "3A0sdU06"
