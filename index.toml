@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/cgs.pw.toml"
-hash = "1c00a0dcf5bb11abb3122a5d4675e50657c003e58308872abf6a479b7652c450"
+hash = "33466ebb8e4f79baec172eeef6c16fdc89f72439d38c3570ee2f0b78ed6fa878"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntgl.pw.toml"
-hash = "bf151b8e73e03ea81b2413db6d9771d9895b5600e8ceb27019ae9a8d76613ed3"
+hash = "e7539d745b0708273e5d4299fe2327d354f45dbf2847029877cf73b00640a2b2"
 metafile = true
 
 [[files]]
