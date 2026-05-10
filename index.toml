@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "be5d32cc3a6d73a16915e37c022c7a8e7e804baa89a92bb611d778f4a848e91e"
+hash = "aad649656cd71a0ec12425cdaea7f96855ea62f256237fc84c9ef65da7ae9d90"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
+hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
 metafile = true
 
 [[files]]
@@ -611,12 +611,12 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "993cc8875b10dd2d17df51981abddcc7502533e61bfb2ffd4a94b59db737feaa"
+hash = "3a92e6c4586c9c6daaae2d40eca040ebb5a1f27355e2ad0e1340b1fbff7ae622"
 metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "5eed555d96dcdf16f9aa088d4e2656f0254e422a2bdb0422b20fde7c05c34df5"
+hash = "97d6e833cc930ad0a4ca5f33ff9dd58a2c890d310faa5d0c5f88085731566df6"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "d9c4a1e28e89b967546eeb70565257a32c5a979a9cfc98c79b15bd52af35cf7d"
+hash = "b8765cf083d551620d13602f3f868c7644220a8929fc49af1cf867af0b4cdd9a"
 metafile = true
 
 [[files]]
